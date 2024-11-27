@@ -1,0 +1,23 @@
+Model Performance Metrics:
+Accuracy: 0.839
+Precision: 0.851
+Recall: 0.839
+F1-Score: 0.841
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+       plane      0.873     0.835     0.854      1000
+         car      0.932     0.947     0.939      1000
+        bird      0.887     0.704     0.785      1000
+         cat      0.632     0.779     0.698      1000
+        deer      0.867     0.801     0.833      1000
+         dog      0.683     0.827     0.748      1000
+        frog      0.874     0.887     0.880      1000
+       horse      0.948     0.765     0.847      1000
+        ship      0.890     0.942     0.915      1000
+       truck      0.919     0.907     0.913      1000
+
+    accuracy                          0.839     10000
+   macro avg      0.851     0.839     0.841     10000
+weighted avg      0.851     0.839     0.841     10000

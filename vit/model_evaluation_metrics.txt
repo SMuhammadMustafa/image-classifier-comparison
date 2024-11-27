@@ -1,0 +1,63 @@
+Detailed Classification Metrics:
+
+Per-class metrics:
+--------------------------------------------------------------------------------
+
+Class: plane
+Precision: 0.685
+Recall: 0.758
+F1-Score: 0.720
+
+Class: car
+Precision: 0.801
+Recall: 0.794
+F1-Score: 0.798
+
+Class: bird
+Precision: 0.579
+Recall: 0.602
+F1-Score: 0.590
+
+Class: cat
+Precision: 0.571
+Recall: 0.442
+F1-Score: 0.498
+
+Class: deer
+Precision: 0.659
+Recall: 0.592
+F1-Score: 0.623
+
+Class: dog
+Precision: 0.579
+Recall: 0.621
+F1-Score: 0.599
+
+Class: frog
+Precision: 0.676
+Recall: 0.828
+F1-Score: 0.745
+
+Class: horse
+Precision: 0.753
+Recall: 0.676
+F1-Score: 0.712
+
+Class: ship
+Precision: 0.795
+Recall: 0.832
+F1-Score: 0.813
+
+Class: truck
+Precision: 0.784
+Recall: 0.745
+F1-Score: 0.764
+
+Overall metrics:
+--------------------------------------------------------------------------------
+Accuracy: 0.689
+
+Macro Average:
+Precision: 0.688
+Recall: 0.689
+F1-Score: 0.686
