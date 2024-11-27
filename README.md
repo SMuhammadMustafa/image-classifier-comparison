@@ -1,7 +1,5 @@
 # Image Classification Model Comparison
 
-# Image Classification Model Comparison
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Models Compared](#models-compared)
